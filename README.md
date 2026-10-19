@@ -59,7 +59,7 @@ The dashboard provides a consolidated view of real estate inventory and listing 
 
 Add your Power BI dashboard screenshot to the repository and update the image path below.
 
-![Real Estate Analytics Dashboard](images/real-estate-dashboard.png)
+![Real Estate Analytics Dashboard](Dash.png)
 
 ## Key Metrics
 
