@@ -86,16 +86,3 @@ The project demonstrates how SQL-based analysis and business intelligence report
 
 The analysis provides a foundation for further investigation into property pricing patterns, listing duration, and inventory distribution.
 
-## Project Structure
-
-A suggested repository structure is:
-
-```text
-Real-Estate-Market-Analytics/
-│
-├── SQL.sql
-├── README.md
-├── images/
-│   └── real-estate-dashboard.png
-└── dataset/
-    └── real_estate.csv
